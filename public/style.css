@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(214, 239, 248);
+}
+.outerContainer{
+    display: flex;
+    justify-content: center;
+}
+.container{
+    
+    background-color: azure;
+    width: 50%;
+    text-align: center;
+}
+
+h1{
+    color: lightseagreen;
+    text-align: center;
+}
+ul li{
+    padding :15px;
+    margin: 10px;
+    font-size: 20px;
+    list-style: none;
+    cursor: pointer;
+    background-color: bisque;
+}
+ul li span{
+    float: left;
+    font-size: 20px;
+    font-weight: bold;
+}
+ul li label{
+    float: right;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+
